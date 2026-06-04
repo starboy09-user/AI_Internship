@@ -1,0 +1,5 @@
+Marks: [60, 70, 80, 90, 100]
+Mean: 80.0
+Median: 80
+
+Predicted Marks: 90.0

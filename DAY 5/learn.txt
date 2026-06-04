@@ -1,0 +1,13 @@
+Day 5 - AI Mathematics
+
+Mean = Sum of all values / Total values
+
+Median = Middle value in sorted data
+
+Linear Regression:
+A machine learning algorithm used to predict values based on existing data.
+
+Example:
+Study Hours -> Marks
+
+More study hours generally lead to higher marks.
