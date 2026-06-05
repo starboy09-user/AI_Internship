@@ -1,0 +1,66 @@
+DAY 6 - MACHINE LEARNING BASICS
+
+What is Machine Learning?
+
+Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions without being explicitly programmed for every task.
+
+What is Scikit-learn?
+
+Scikit-learn is one of the most popular Machine Learning libraries in Python. It provides simple and efficient tools for data analysis, model training, prediction, and evaluation.
+
+Installation:
+
+pip install scikit-learn
+
+What is a Model?
+
+A Machine Learning model is a mathematical representation that learns relationships between input data and output data. After training, the model can make predictions on new data.
+
+What is Training?
+
+Training is the process of teaching a model using historical data. During training, the model identifies patterns and relationships in the dataset.
+
+What is Linear Regression?
+
+Linear Regression is a supervised Machine Learning algorithm used to predict continuous values. It finds the best-fit straight line between input and output variables.
+
+Example:
+House Area -> House Price
+
+As the area increases, the house price generally increases. Linear Regression learns this relationship and predicts prices for new house areas.
+
+Important Functions:
+
+1. model = LinearRegression()
+   Creates a Linear Regression model.
+
+2. model.fit(X, y)
+   Trains the model using input data (X) and output data (y).
+
+3. model.predict()
+   Predicts output values for new inputs.
+
+House Price Predictor:
+
+In this project, house area is used as input and house price is used as output. The model is trained using sample data and then predicts the price of a house based on the area entered by the user.
+
+Advantages of Machine Learning:
+
+- Automates predictions and decision-making.
+- Learns patterns from data.
+- Improves accuracy in many applications.
+- Used in real-world systems like recommendations, fraud detection, and forecasting.
+
+Applications of Machine Learning:
+
+- House Price Prediction
+- Weather Forecasting
+- Stock Market Analysis
+- Recommendation Systems
+- Face Recognition
+- Medical Diagnosis
+- Spam Email Detection
+
+Conclusion:
+
+Machine Learning allows computers to learn from data and make intelligent predictions. Scikit-learn makes it easy to build and train Machine Learning models in Python. In Day 6, a Linear Regression model was trained and used to build a House Price Predictor.
