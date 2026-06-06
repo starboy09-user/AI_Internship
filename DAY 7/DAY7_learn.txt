@@ -1,0 +1,31 @@
+DAY 7 – Deployment Project
+
+Introduction:
+Deployment is the process of making a software application available for users. After developing a machine learning model, deployment helps users interact with the model through a web interface.
+
+What is Streamlit?
+Streamlit is an open-source Python framework used to build interactive web applications for Machine Learning and Data Science projects. It allows developers to create web apps using only Python code.
+
+Advantages of Streamlit:
+1. Easy to learn and use.
+2. No need for HTML, CSS, or JavaScript.
+3. Fast development of web applications.
+4. Suitable for Machine Learning projects.
+5. Interactive user interface.
+
+Important Streamlit Functions:
+1. st.title() - Displays the title of the application.
+2. st.write() - Displays text or output.
+3. st.number_input() - Accepts numerical input from users.
+4. st.button() - Creates a clickable button.
+5. st.success() - Displays success messages.
+
+Deployment Process:
+1. Develop the machine learning model.
+2. Create a Streamlit web application.
+3. Test the application locally.
+4. Upload the project to GitHub.
+5. Deploy the application online.
+
+Conclusion:
+Streamlit makes it easy to convert machine learning projects into user-friendly web applications and deploy them for public use.
