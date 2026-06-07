@@ -1,0 +1,52 @@
+DAY 8 – ChatGPT API
+
+What is an API?
+API (Application Programming Interface) allows one software to communicate with another software.
+
+What is ChatGPT API?
+ChatGPT API allows developers to use AI models inside their applications.
+
+Uses:
+1. AI Chatbots
+2. Customer Support
+3. Content Generation
+4. Code Generation
+5. AI Assistants
+
+Steps to use ChatGPT API:
+1. Create OpenAI account
+2. Generate API key
+3. Install OpenAI package
+4. Write Python code
+5. Send prompt
+6. Receive AI response
+
+Python Package:
+pip install openai
+
+Workflow:
+User Input
+     ↓
+Python Program
+     ↓
+OpenAI API
+     ↓
+AI Response
+     ↓
+Display Result
+
+Advantages:
+- Fast responses
+- Human-like conversation
+- Easy integration
+- Supports many applications
+
+Applications:
+- Websites
+- Mobile Apps
+- AI Assistants
+- Education Platforms
+- Business Automation
+
+Learning Outcome:
+Learned how ChatGPT API works and how to create an AI chatbot using Python.openai
