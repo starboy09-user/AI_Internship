@@ -1,0 +1,57 @@
+DAY 10 – AI Image Generation
+
+What I Learned:
+
+1. AI Image Generation
+- AI can create images from text prompts.
+- Tools like DALL-E, Midjourney, and Stable Diffusion generate images.
+- Better prompts create better images.
+
+2. Poster Creation
+- Posters can be generated for events, promotions, and advertisements.
+- Important elements:
+  * Title
+  * Theme
+  * Colors
+  * Background
+  * Call to Action
+
+3. Festival Creatives
+- AI can create festival greetings and promotional banners.
+- Examples:
+  * Diwali Poster
+  * Holi Greeting
+  * Christmas Banner
+  * New Year Creative
+
+4. Business Creatives
+- AI helps create:
+  * Social Media Ads
+  * Product Posters
+  * Sale Banners
+  * Brand Promotions
+
+5. Prompt Writing for Images
+- A prompt describes what image should be generated.
+- Good prompts include:
+  * Subject
+  * Style
+  * Colors
+  * Lighting
+  * Background
+
+Example Prompts:
+
+1. Festival Poster:
+"Beautiful Diwali celebration poster with glowing diyas, fireworks, golden lighting, modern design, high quality."
+
+2. Business Advertisement:
+"Professional smartphone advertisement poster with modern background, product spotlight, premium design, 4K."
+
+3. Social Media Creative:
+"Instagram promotional banner for clothing brand, stylish models, vibrant colors, professional marketing design."
+
+Key Takeaways:
+- Detailed prompts produce better images.
+- AI saves time in graphic design.
+- AI-generated posters are useful for marketing and social media.

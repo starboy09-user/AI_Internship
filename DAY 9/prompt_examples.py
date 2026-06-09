@@ -1,4 +1,4 @@
-print("PROMPT ENGINEERING EXAMPLES")
+python chatbot.pyprint("PROMPT ENGINEERING EXAMPLES")
 
 print("\n1. ZERO-SHOT PROMPT")
 zero_shot = """
