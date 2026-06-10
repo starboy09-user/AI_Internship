@@ -1,0 +1,47 @@
+DAY 11 – COMPUTER VISION WITH OPENCV
+
+What I Learned:
+
+1. Computer Vision
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos.
+
+2. OpenCV
+OpenCV (Open Source Computer Vision Library) is a popular Python library used for image processing, video analysis, object detection, and face recognition.
+
+3. Installing OpenCV
+OpenCV can be installed using:
+pip install opencv-python
+
+4. Webcam Capture
+Using OpenCV, we can access the computer's webcam and capture live video frames in real time.
+
+5. Displaying Video Feed
+The cv2.imshow() function is used to display images or video frames in a window.
+
+6. Face Detection
+Face detection identifies human faces in images or videos. OpenCV provides pre-trained Haar Cascade classifiers for detecting faces.
+
+7. Haar Cascade Classifier
+A Haar Cascade is a machine learning based object detection algorithm trained to identify specific objects such as faces.
+
+8. Converting to Grayscale
+Face detection works more efficiently on grayscale images because it reduces computational complexity.
+
+9. Drawing Rectangles
+Detected faces can be highlighted using cv2.rectangle() to draw bounding boxes around them.
+
+10. Real-Time Computer Vision
+Combining webcam input and face detection allows real-time face tracking applications.
+
+Key Concepts Learned:
+- Computer Vision
+- OpenCV Library
+- Webcam Access
+- Image Processing
+- Face Detection
+- Haar Cascades
+- Grayscale Conversion
+- Real-Time Video Processing
+
+Outcome:
+Successfully installed OpenCV, captured webcam feed, and built a real-time face detection application using Python.
