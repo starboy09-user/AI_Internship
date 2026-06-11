@@ -1,0 +1,48 @@
+DAY 12 – NLP Basics
+
+What is NLP?
+NLP (Natural Language Processing) is a branch of Artificial Intelligence that helps computers understand, process, and analyze human language.
+
+Applications of NLP:
+1. Spam Detection
+2. Chatbots
+3. Language Translation
+4. Sentiment Analysis
+5. Speech Recognition
+6. Text Classification
+
+Text Processing Basics:
+1. Lowercasing Text
+2. Removing Punctuation
+3. Tokenization (splitting words)
+4. Removing Stop Words
+5. Feature Extraction
+
+Spam Detection:
+Spam detection is the process of classifying messages as spam or not spam.
+
+Machine Learning Process:
+1. Collect Dataset
+2. Clean Text Data
+3. Convert Text into Numerical Features
+4. Train Model
+5. Predict Results
+
+Algorithms Used:
+- Naive Bayes
+- Logistic Regression
+- SVM
+
+Text Classification:
+Text classification automatically assigns categories to text.
+
+Examples:
+- Spam / Not Spam
+- Positive / Negative Review
+- News Categories
+
+Skills Learned:
+- Text preprocessing
+- NLP basics
+- Text classification
+- Spam detection using Machine Learning

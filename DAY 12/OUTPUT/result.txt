@@ -1,0 +1,2 @@
+Message: You have won a cash prize
+Prediction: spam
