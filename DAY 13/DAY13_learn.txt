@@ -1,0 +1,35 @@
+DAY 13 – Voice AI Assistant
+
+Topics Learned:
+
+1. Speech Recognition Basics
+- Speech recognition converts spoken words into text.
+- Python can use microphones to capture voice input.
+- The SpeechRecognition library helps recognize speech.
+
+2. Voice Assistant
+- A voice assistant listens to user commands.
+- It converts speech to text.
+- It processes commands and performs actions.
+
+3. Execute Voice Commands
+Examples:
+- Open Google
+- Tell current time
+- Say hello
+- Exit application
+
+Libraries Used:
+- SpeechRecognition
+- PyAudio
+- webbrowser
+- datetime
+
+Applications:
+- AI Assistants
+- Smart Devices
+- Virtual Automation
+- Voice Controlled Systems
+
+Outcome:
+Built a mini voice assistant that listens to voice commands and performs tasks automatically.
