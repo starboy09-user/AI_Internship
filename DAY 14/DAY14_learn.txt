@@ -1,0 +1,48 @@
+DAY 14 – AI AUTOMATION
+
+WHAT I LEARNED
+
+1. AI Automation
+- Repetitive tasks automatically perform karna.
+- AI tools content generate kar sakte hain.
+- Time aur effort save hota hai.
+
+2. Zapier
+- No-code automation platform.
+- Apps ko connect karta hai.
+- Example:
+  Google Sheets → ChatGPT → Gmail
+
+3. Make.com
+- Visual automation builder.
+- Complex workflows create kar sakte hain.
+- Drag-and-drop interface.
+
+4. Social Media Automation
+- Auto caption generation.
+- Auto hashtag generation.
+- Auto post scheduling.
+- Auto content creation.
+
+5. AI Caption Generation
+- Topic input do.
+- AI caption generate karega.
+- Instagram, Facebook, LinkedIn ke liye use hota hai.
+
+WORKFLOW EXAMPLE
+
+User enters topic
+↓
+AI generates caption
+↓
+Caption saved in file
+↓
+Ready for social media posting
+
+KEY LEARNINGS
+- Automation saves time.
+- AI can create social media content.
+- Zapier and Make.com connect apps.
+- Python can automate content generation.
+
+DAY 14 COMPLETED
