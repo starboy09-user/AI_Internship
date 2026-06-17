@@ -1,0 +1,36 @@
+PYTHON INTERNSHIP
+Day 18 – AI Business Tool
+
+Topics Learned:
+
+1. Invoice Generator
+- Taking user input
+- Using variables
+- Performing calculations
+- Creating business invoices
+- Displaying formatted output
+
+2. AI Caption Tool
+- Taking image descriptions as input
+- Generating multiple captions
+- Using Python lists
+- Looping through captions
+- Basic AI content generation concept
+
+Skills Gained:
+- Business automation
+- User input handling
+- String formatting
+- List operations
+- Python loops
+- Mini AI application development
+
+Applications:
+- Billing software
+- Shop invoice systems
+- Social media tools
+- Content creation tools
+- Business productivity apps
+
+Conclusion:
+Successfully built an Invoice Generator and an AI Caption Tool using Python.
