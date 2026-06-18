@@ -1,0 +1,31 @@
+DAY 19 – Major Project Planning
+
+Project Name:
+AI Business Assistant
+
+Objective:
+Create a web application that helps businesses generate
+captions, hashtags, emails, product descriptions, and
+business names using AI.
+
+Technology Used:
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- Gemini API
+
+Workflow:
+User → Website → Flask → Gemini API → Result
+
+Features:
+1. AI Chatbot
+2. Caption Generator
+3. Hashtag Generator
+4. Business Name Generator
+5. Email Writer
+6. Product Description Generator
+
+Status:
+Planning Completed
